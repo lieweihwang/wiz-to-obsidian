@@ -1,6 +1,6 @@
-# wiz2obsidian
+# wiz-to-obsidian
 
-将为知笔记（WizNote）的所有笔记导出为 Obsidian 兼容的 Markdown 文件，支持**在线模式**和**本地模式**两种方式。
+基于awaken233/wiz2obsidian优化，将为知笔记（WizNote）的所有笔记导出为 Obsidian 兼容的 Markdown 文件，支持**在线模式**和**本地模式**两种方式。
 
 ## ✨ 特性
 
@@ -36,7 +36,7 @@
    - macOS：`~/Library/Application Support/WizNote/Data/<用户ID>`
 2. 在 `.env` 文件中配置路径：
    ```env
-   WIZ_LOCAL_PATH=D:\path\to\My Knowledge\Data\18161262536
+   WIZ_LOCAL_PATH=D:\path\to\My Knowledge\Data\joehwang
    ```
 3. 运行：
    ```bash
@@ -114,7 +114,7 @@ output/
 
 ```bash
 # 克隆项目
-git clone https://github.com/awaken233/wiz2obsidian.git
+git clone https://github.com/lieweihwang/wiz-to-obsidian.git
 cd wiz2obsidian
 
 # 安装依赖
