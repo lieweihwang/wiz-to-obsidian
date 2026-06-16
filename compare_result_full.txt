@@ -1,0 +1,45 @@
+WizNote 源目录 (.ziw) 文件数量: 8365
+Obsidian 输出目录 (.md) 文件数量: 8263
+
+源目录中存在，但输出目录中完全没有对应 .md 文件的目录数: 3
+示例:
+  - my notes\人工智能\经验总结\向量数据库 (包含 1 个 .ziw)
+  - my notes\数据库\redis\源码分析 (包含 10 个 .ziw)
+  - my notes\生活经验 (包含 2 个 .ziw)
+
+.ziw 数量和 .md 数量不匹配的目录数: 34
+不匹配的目录:
+  - my notes\算法与数据结构\anker: Wiz有 25 个, Obs有 8 个
+  - my notes\linux\进程间通信ipc: Wiz有 14 个, Obs有 1 个
+  - my notes\架构和调优\书籍: Wiz有 74 个, Obs有 63 个
+  - my notes\linux\apue环境编程系列: Wiz有 49 个, Obs有 40 个
+  - my notes\网站开发\libcurl\linux下libcurl编程: Wiz有 8 个, Obs有 4 个
+  - my notes\linux\网络编程: Wiz有 8 个, Obs有 5 个
+  - my notes\数据库\书籍: Wiz有 5 个, Obs有 2 个
+  - my notes\c++\书籍: Wiz有 45 个, Obs有 43 个
+  - my notes\工作经验\技术文章: Wiz有 38 个, Obs有 36 个
+  - my notes\算法与数据结构\leetcode: Wiz有 26 个, Obs有 24 个
+  - my notes\调试方法\异常诊断与调试: Wiz有 119 个, Obs有 117 个
+  - my notes\c++\c++11标准: Wiz有 34 个, Obs有 33 个
+  - my notes\c++\c++总结: Wiz有 38 个, Obs有 37 个
+  - my notes\linux\linux工具\gdb\经验: Wiz有 16 个, Obs有 15 个
+  - my notes\linux\（内核）书籍: Wiz有 32 个, Obs有 31 个
+  - my notes\windows\visual studio: Wiz有 17 个, Obs有 16 个
+  - my notes\人工智能\经验总结\tritonserver: Wiz有 6 个, Obs有 5 个
+  - my notes\人工智能\自然语言: Wiz有 17 个, Obs有 16 个
+  - my notes\其他教程: Wiz有 8 个, Obs有 7 个
+  - my notes\图形游戏开发\书籍: Wiz有 25 个, Obs有 26 个
+  - my notes\工作经验\工作工具代码: Wiz有 9 个, Obs有 8 个
+  - my notes\平台对接\tlog: Wiz有 2 个, Obs有 1 个
+  - my notes\操作系统\书籍: Wiz有 23 个, Obs有 22 个
+  - my notes\数据库\elasticsearch: Wiz有 23 个, Obs有 22 个
+  - my notes\架构和调优\qcon\qcon北京2016\打破规则，我是黑客专题: Wiz有 7 个, Obs有 6 个
+  - my notes\架构和调优\qcon\qcon北京2019\智慧零售: Wiz有 2 个, Obs有 1 个
+  - my notes\架构和调优\wota\wota2017全球架构与运维技术峰会: Wiz有 50 个, Obs有 49 个
+  - my notes\架构和调优\腾讯大讲堂2012: Wiz有 52 个, Obs有 51 个
+  - my notes\生活经验\自建工具平台: Wiz有 15 个, Obs有 14 个
+  - my notes\编程语言\erlang: Wiz有 4 个, Obs有 3 个
+  - my notes\编程语言\lua\书籍: Wiz有 23 个, Obs有 22 个
+  - my notes\网站开发\书籍: Wiz有 11 个, Obs有 10 个
+  - my notes\网络\书籍: Wiz有 38 个, Obs有 37 个
+  - my notes\设计模式\书籍: Wiz有 12 个, Obs有 11 个

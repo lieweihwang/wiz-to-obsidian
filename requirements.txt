@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+html2text==2024.2.26
+PyYAML==6.0.1
+requests==2.31.0
+urllib3==2.2.1
+websocket-client==1.7.0
+python-dotenv
+pyinstaller==6.5.0
